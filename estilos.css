@@ -1,0 +1,281 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Arial';
+    overflow: visible;
+  
+}
+
+header{
+    background: #00AF1C;
+   list-style: none;
+   position: absolute;
+    width: 1440px;
+    height: 99px;
+    left: 0px;
+    top: 0px;
+   
+ }
+.logo{ 
+    position: absolute;
+    width: 95px;
+    height: 37px;
+    left: 33px;
+    top: 30px;
+    color: white;
+ }
+
+.enlaces { 
+    position: absolute;
+    width: 360px;
+    height: 21px;
+    left: 1021px;
+    top: 38px;
+    }
+ .enlaces a{
+     text-decoration: none;
+     color: white;
+     font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+     }
+
+ .enlaces ul li{
+   list-style: none;  
+    float: left;
+    line-height: 30px;
+     }
+
+ main{
+     background: whitesmoke;
+     width: 1440px;
+     height: 2799px
+
+ }
+
+ .home{
+     position: absolute;
+     Width: 73px;
+     Height: 28px;
+     Top: 165px;
+     Left:33px;
+     color: #3B06D2;
+     }
+
+.texto1{
+    position: absolute;
+    height: 114px;
+    width: 1367px;
+    left: 33px;
+    top: 209px;
+    border-radius: nullpx;
+}
+
+.figures-order{
+   position: absolute;
+    height: 182px;
+    width: 385px;
+    left: 38px;
+    top: 330px;
+    border-radius: 0px;
+    display: flex;
+    gap: 10px;
+}
+
+ .servicios{
+    position: absolute;
+    height: 28px;
+    width: 131px;
+    left: 38px;
+    top: 578px;
+    border-radius: nullpx;
+    color: #D206B2;
+ }
+
+ .texto2{
+    position: absolute;
+    height: 114px;
+    width: 1367px;
+    left: 38px;
+    top: 622px;
+    border-radius: nullpx;
+    
+ }
+
+ .texto3{
+     position: absolute;
+    height: 114px;
+    width: 1367px;
+    left: 40px;
+    top: 717px;
+    border-radius: nullpx;
+ }
+
+.figures-order2{
+    position: absolute;
+    height: 182px;
+    width: 385px;
+    left: 43px;
+    top: 843px;
+    border-radius: 0px; 
+    display: flex;
+    gap: 10px;
+ }
+
+ .list-box{
+    position: absolute;
+    height: 176px;
+    width: 158px;
+    left: 49px;
+    top: 1075px;
+    border-radius: nullpx;
+       
+ }
+
+ .item1{
+     color: red;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2;
+ }
+
+ .item2{
+    color: blue;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 2;
+   }
+
+   .item3{
+    color: orange;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 2;
+   }
+
+   .item4{
+    color: rgb(53, 237, 250);
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 2;
+   }
+
+.portafolio{
+   position: absolute;
+    height: 28px;
+    width: 156px;
+    left: 38px;
+    top: 1301px;
+    border-radius: nullpx;
+    color: #AAD206;
+    }   
+
+ .texto4{
+   position: absolute;
+   height: 114px;
+   width: 1367px;
+   left: 38px;
+   top: 1345px;
+   border-radius: nullpx;
+ }   
+
+ .texto5{
+    position: absolute;
+    height: 114px;
+    width: 1367px;
+    left: 40px;
+    top: 1440px;
+    border-radius: nullpx;
+}
+
+.figures-order3{
+    position: absolute;
+    height: 182px;
+    width: 385px;
+    left: 43px;
+    top: 1566px;
+    border-radius: 0px;
+    display: flex;
+    gap: 10px;
+}
+
+.list-box2{
+    position: absolute;
+    height: 176px;
+    width: 158px;
+    left: 49px;
+    top: 1798px;
+    border-radius: nullpx;
+
+}
+
+.contacto{
+    position: absolute;
+    height: 28px;
+    width: 105px;
+    left: 40px;
+    top: 2024px;
+    border-radius: nullpx;
+    color:rgba(6, 210, 198, 1);
+}
+
+.texto6{
+    position: absolute;
+    height: 114px;
+    width: 1367px;
+    left: 40px;
+    top: 2068px;
+    border-radius: nullpx;
+}
+
+.registro{
+    position: absolute;
+    height: 88px;
+width: 1339px;
+left: 38px;
+top: 2195px;
+border-radius: 0px;
+line-height: 3;
+}
+
+.send{
+    height: 60px;
+width: 200px;
+left: 103px;
+top: 2598px;
+font-size:x-large;
+color: #00AF1C;
+border-color: #00AF1C;
+}
+
+footer{
+height: 103px;
+width: 1440px;
+left: 0px;
+top: 2814px;
+border-radius: 0px;
+background: rgba(0, 175, 28, 1);
+}
+
+.texto7{
+    color: white;
+    position: absolute;
+    
+
+left: 38px;
+top: 2852px;
+border-radius: nullpx;
+font-size: 19px;
+}
+
+.texto8{
+    color: white;
+    position: absolute;
+    left: 1183px;
+    top: 2849px;
+border-radius: nullpx;
+font-size: 18px;
+}
+
